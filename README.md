@@ -31,7 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg" />
 <img align="left" alt="Terminal" width="26px" src="https://w7.pngwing.com/pngs/65/944/png-transparent-ni-multisim-electronics-ni-ultiboard-electronic-circuit-computer-software-electronic-instrument-purple-angle-rectangle.png" />
-<img align="left" alt="Terminal" width="26px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ab1576bbe6d84ab0b4b9bc31bc064f41/ni-multisim.png" />
+<img align="left" alt="Terminal" width="26px" src="https://mpng.subpng.com/20180606/ky/kisspng-ni-multisim-electronics-ni-ultiboard-electronic-ci-electronic-instrument-5b1792bfbe9268.9671595715282715517806.jpg" />
 
 
 <br/>
