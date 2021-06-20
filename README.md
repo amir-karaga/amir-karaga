@@ -18,7 +18,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://w7.pngwing.com/pngs/626/722/png-transparent-microsoft-visual-studio-net-framework-visual-studio-code-visual-programming-language-microsoft-purple-angle-studio.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.pinclipart.com/picdir/middle/124-1248748_c-sharp-logo-png.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png" />
